@@ -48,6 +48,13 @@ http://localhost:8000
 
 ---
 
-## 🧪 Executar os testes
+# 🧪 Executar os teste
 
 python manage.py test
+
+---
+
+# 🧪 Coberturas de Testes
+
+coverage report
+
